@@ -1,2 +1,2 @@
 # Portofolio Projects
-A collection of portfolio projects
+This is a collection of portofolio projects for Data Analytics.
